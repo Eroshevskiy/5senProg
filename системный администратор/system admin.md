@@ -40,4 +40,6 @@ Bash и Git Bash Git Bash - командная оболочка которая �
 
 персоональный токен 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@https://github.com/Eroshevskiy
 
+# 19.10.2022
+![image](https://user-images.githubusercontent.com/97594146/196630227-0926fd73-5689-4271-a926-f013c54a36da.png)
 
