@@ -38,6 +38,6 @@ Bash и Git Bash Git Bash - командная оболочка которая �
 
 Команда git removed-привязывает к существующему репозиторию
 
-персоональный токен git push https://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@https://github.com/Eroshevskiy
+персоональный токен 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@https://github.com/Eroshevskiy
 
 
